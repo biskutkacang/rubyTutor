@@ -73,6 +73,6 @@ class Array
     for item in self
       yield(item)
     end
-    self
+    sel
   end
 end
